@@ -3,10 +3,10 @@
 > A Chrome Extension which add a Bookmark sign to the video player using which you can bookmark that instance of the video.
 
 ### It also has following features
-#### * Edit Bookmark
-#### * Delete Bookmark
-#### * Jump to the any of bookmarked points
-#### * Provide Link of that Bookmark
+ - Edit Bookmark
+ - Delete Bookmark
+ - Jump to the any of bookmarked points
+ - Provide Link of that Bookmark
 
 ## Some ScreenShots
 
